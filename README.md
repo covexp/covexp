@@ -1,5 +1,4 @@
-### Henrik Lehtinen
-## Finnish game developer
+## Hello traveler
 
 - 🔭 I’m currently working on a new puzzle game as a sequel to Fliprule.
 - 🌱 I’m currently learning Flutter for a crossplatform app idea.
